@@ -60,7 +60,7 @@ Toggle on-click and retain visibility state (Livewire-compatible)
 
 You can download the sample database file below:
 
-[⬇️ Download comment.sql](https://github.com/Shubham-8787269/comment-project/raw/main/database/comment.sql)
+[⬇️ Download comment.sql](https://github.com/Shubham-8787269/new-project/raw/main/comment.sql)
 
 ## 🛠️ Project Setup
 
