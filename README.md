@@ -21,14 +21,39 @@
 
 
 
-- 🧑‍💼 Admin & User Registration/Login
-- 🗂️ Separate Dashboards (currently only Admin dashboard active)
-- 📬 Admin can create posts (title, content, image)
-- 📰 Posts visible to all users on the welcome page
-- 💬 Authenticated users can:
-  - Comment on posts
-  - Reply to comments
-  - Reply on replies (multi-level)
+Features (Livewire Based)
+🧑‍💼 Admin & User Registration/Login
+
+🗂️ Separate Dashboards
+
+Currently only Admin Dashboard is active.
+
+🛠️ Livewire-Powered UI Components
+
+Real-time updates using wire:poll for latest posts & comments
+
+Instant replies without full page reload
+
+📬 Admin Capabilities
+
+Can create posts with Title, Content, and Image
+
+📰 Public Post Visibility
+
+All posts are visible to users on the welcome page
+
+💬 Authenticated Users Can:
+
+Comment on any post
+
+Reply to comments
+
+Reply on replies (supports multi-level nested replies, up to 3 levels)
+
+📌 Reply Forms
+
+Toggle on-click and retain visibility state (Livewire-compatible)
+
 
 ---
 
