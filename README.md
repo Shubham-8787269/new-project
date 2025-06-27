@@ -62,7 +62,11 @@ Toggle on-click and retain visibility state (Livewire-compatible)
 
 Click the link below to download the SQL file for this project:
 
-[Download comment.sql](https://github.com/Shubham-8787269/new-project/raw/main/comment.sql)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Shubham-8787269/new-project/main/comment.sql" download>
+    <img src="https://img.shields.io/badge/Download-SQL-blue?style=for-the-badge" alt="Download SQL">
+  </a>
+</p>
 
 ## 🛠️ Project Setup
 
