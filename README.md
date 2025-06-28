@@ -12,6 +12,11 @@
 ## ✨ Features
 ![Screenshot 2025-06-27 145058](https://github.com/user-attachments/assets/0f55e734-7005-4128-a162-ebc6029baed0)
 
+![Screenshot 2025-06-28 114212](https://github.com/user-attachments/assets/0cba6b01-796f-431b-9803-70008610902f)
+
+![Screenshot 2025-06-28 114323](https://github.com/user-attachments/assets/9b9bc3d8-dbc1-4abc-8b3c-5e2fefff96c2)
+
+
 ![Screenshot 2025-06-27 144935](https://github.com/user-attachments/assets/ac0e17c7-c179-4461-95de-a2136fc66ed7)
 
 ![Screenshot 2025-06-27 144954](https://github.com/user-attachments/assets/8ee6e0e5-9320-4169-98c9-3beec72f262c)
@@ -62,7 +67,7 @@ Toggle on-click and retain visibility state (Livewire-compatible)
 
 Click the link below to download the SQL file for this project:
 
-ess project me comment.sql file jo database hai uske download krke use kre
+ess project me comment.sql file jo database hai vo project me pada hua hai uske download krke use kre.
 
 ## 🛠️ Project Setup
 
