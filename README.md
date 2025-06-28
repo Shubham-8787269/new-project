@@ -12,7 +12,7 @@
 ## ✨ Features
 ![Screenshot 2025-06-27 145058](https://github.com/user-attachments/assets/0f55e734-7005-4128-a162-ebc6029baed0)
 
-![Screenshot 2025-06-28 114212](https://github.com/user-attachments/assets/0cba6b01-796f-431b-9803-70008610902f)
+![Screenshot 2025-06-28 114750](https://github.com/user-attachments/assets/c0e8ba76-1fda-48d6-b685-2c921e592ee8)
 
 ![Screenshot 2025-06-28 114323](https://github.com/user-attachments/assets/9b9bc3d8-dbc1-4abc-8b3c-5e2fefff96c2)
 
